@@ -1,12 +1,5 @@
 # Aplikasi Data Kendaraan
 
-Aplikasi manajemen data kendaraan
-
----
-
-
-
-
 ## 🌐 Frontend (HTML)
 
 ### Letak File Frontend
