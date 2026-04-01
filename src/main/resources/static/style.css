@@ -1,0 +1,172 @@
+body {
+    background-color: #f4f6f8;
+    padding-top: 20px;
+}
+
+.page-header {
+    padding: 10px 16px;
+    margin-bottom: 20px;
+}
+
+.page-header h3 {
+    margin: 0;
+    font-weight: 600;
+}
+
+.search-card {
+    background-color: #fff3ee;
+    border: 1px solid #f5cbb0;
+    border-radius: 6px;
+    padding: 20px 24px 10px;
+    margin-bottom: 16px;
+    margin-left: 30px;
+}
+
+.search-card label {
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 4px;
+}
+
+.search-card .form-control {
+    border-radius: 2px;
+    border: 1px solid #aaa;
+    max-width: 260px;
+    height: 30px;
+    font-size: 0.85rem;
+}
+
+.action-row {
+    display: flex;
+    justify-content: flex-end;
+    gap: 8px;
+    margin-bottom: 12px;
+}
+
+.table-wrapper {
+    font-size: 0.85rem;
+    border-radius: 4px;
+    overflow: hidden;
+    border: 1px solid #000000;
+    margin-left: 26px;
+}
+
+.table thead th {
+    font-size: 0.85rem;
+    background-color: #61a3ff;
+    font-weight: 600;
+    border-color: #000 !important;
+}
+
+.table tbody td {
+    padding: 7px 10px;
+    vertical-align: middle;
+    color: #333;
+    border-color: #000 !important;
+}
+
+
+.link-detail {
+    color: #ff6b0e;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.link-detail:hover {
+    text-decoration: underline;
+}
+
+.link-edit {
+    color: #0d6efd;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.link-edit:hover {
+    text-decoration: underline;
+}
+
+.link-delete {
+    color: #dc3545;
+    text-decoration: none;
+    font-weight: 600;
+}
+
+.link-delete:hover {
+    text-decoration: underline;
+}
+
+/* ── Tambah / Edit Form ─────────────────────────────── */
+.form-card {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 28px 32px 24px;
+}
+
+.form-card .form-label {
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: #333;
+    margin-bottom: 4px;
+}
+
+.form-card .form-control,
+.form-card .form-select {
+    border-radius: 2px;
+    border: 1px solid #888;
+    font-size: 0.875rem;
+    height: 34px;
+    padding: 4px 8px;
+}
+
+.form-card textarea.form-control {
+    height: 90px;
+    resize: none;
+}
+
+.form-card .form-select {
+    height: 34px;
+}
+
+.form-title {
+    font-size: 1rem;
+    font-weight: 700;
+    margin-bottom: 20px;
+    color: #111;
+}
+
+.btn-simpan {
+    background-color: #3a7bd5;
+    border-color: #3a7bd5;
+    color: #fff;
+    font-size: 0.875rem;
+    padding: 6px 24px;
+    border-radius: 4px;
+}
+
+.btn-simpan:hover {
+    background-color: #2f66b8;
+    border-color: #2f66b8;
+    color: #fff;
+}
+
+.btn-kembali {
+    background-color: #9e9e9e;
+    border-color: #9e9e9e;
+    color: #fff;
+    font-size: 0.875rem;
+    padding: 6px 24px;
+    border-radius: 4px;
+}
+
+.btn-kembali:hover {
+    background-color: #858585;
+    border-color: #858585;
+    color: #fff;
+}
+
+.mb-form {
+    margin-bottom: 14px;
+}
